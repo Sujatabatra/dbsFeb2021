@@ -1,0 +1,12 @@
+SOLID Design Principles
+
+S : Single Responsibility Principle
+O : Open /Close Principle
+L : Liskov Substitution Principle
+I : Interface Segregation Principle
+D : Dependency inversion
+
+Coupling and Cohersion
+
+Good Software design : Coupling should be low and Cohersion should be high
+
