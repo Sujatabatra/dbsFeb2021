@@ -1,0 +1,9 @@
+1. get the list of healthy dishes ( low calorie dishes with calorie intake of less then 200)
+2. get the list of names non vegetarian dishes
+
+
+Employee class
+1. fetch records of all employees working in specific department
+2. list names of all managers
+3. list name of all employees getting salary greater den 50,000
+4. convert all employee names to upper case and display their names 
