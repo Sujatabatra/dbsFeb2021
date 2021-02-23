@@ -1,0 +1,20 @@
+
+Ques 1 : MessageService (Interface)
+sendTo()
+receiveFrom()
+
+MailService :message,sendermailId,receivermailID (Class)
+SMSService :message, senderPhNo,receiverPhNo (Class)
+
+
+
+Ques 2:
+BookClass
+int bId,String bookName,Author author
+
+Author
+String authorName,int authorAge
+
+display mebook details
+
+
